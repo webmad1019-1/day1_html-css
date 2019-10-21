@@ -1,0 +1,44 @@
+img {
+    height: 300px;
+}
+
+table th {
+    background: grey;
+}
+
+table td {
+    border: 1px solid black;
+}
+
+#topnav a::after {
+    content: "|";
+    padding-left: 10px;
+}
+
+ol {
+    list-style: lower-roman;
+}
+
+p {
+    line-height: 18px;
+}
+
+p.large {
+    width: 700px;
+}
+
+p.small {
+    width: 400px;
+}
+
+span {
+    color: red;
+}
+
+span.important {
+    font-weight: bold;
+    /* display: block; */
+    font-size: 20px;
+    background: silver;
+    width: 500px;
+}

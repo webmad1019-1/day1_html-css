@@ -1,0 +1,13 @@
+button {
+    border-radius: 20px;
+    font-size: 20px;
+    padding: 20px;
+    background: #ddd;
+    box-shadow: 0 0 3px black;
+    transition: all 0.5s;
+}
+
+button:hover {
+    border-radius: 10px;
+    background: red;
+}

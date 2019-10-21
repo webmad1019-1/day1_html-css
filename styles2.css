@@ -1,0 +1,32 @@
+body {
+    background: linear-gradient(#fff, #bbb);
+    background-size: cover;
+    height: 100vh;
+}
+
+p {
+    margin-bottom: 140px;
+}
+
+textarea {
+    height: 200px;
+    width: 100%;
+}
+
+span {
+    color: rgba(55, 183, 26, 0.374);
+    font-size: 124px;
+}
+
+span.underlined {
+    border-bottom: 15px solid black;
+}
+
+nav {
+    padding: 20px;
+    background: grey;
+}
+
+#adios {
+    color: green;
+}
